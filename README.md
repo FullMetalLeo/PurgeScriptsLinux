@@ -61,6 +61,17 @@ A clear, commented guide to the core concepts of the Ruby programming language.
 - **OOP First**: Explains how everything is an object, including Class definitions and methods.
 - **Flow Control**: Covers standard `if/elsif` along with the idiomatic `case` and `unless` statements.
 
+### [GroovyDemo.groovy](./GroovyDemo.groovy)
+
+A comprehensive guide to the Groovy programming language, highlighting its dynamic features and seamless Java integration.
+
+**Key Features:**
+- **Closures**: Explains Groovy's defining feature for functional programming and custom DSLs.
+- **Collections**: Native syntax for Lists and Maps with powerful iteration methods (`each`, `findAll`).
+- **POGOs**: Plain Old Groovy Objects with auto-generated getters/setters and named constructors.
+- **Advanced Syntax**: Null-safe navigation (`?.`), Elvis operator (`?:`), and dynamic `Expando` objects.
+- **Ecosystem Guide**: Details Groovy's popularity in **Gradle** builds, **Jenkins** pipelines, and **Spock** testing.
+
 ## Manual Testing Steps
 
 To safely test the `archive.ksh` script in a new environment, follow these steps:
